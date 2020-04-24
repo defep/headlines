@@ -1,4 +1,10 @@
 # headlines
 
+## Installation
+```$ pipenv install```
+
 ## Usage
-```$ scrapy crawl infobae_rss -o output.json```
+``` bash
+$ pipenv shell
+$ scrapy crawl infobae_rss -o output.json
+```
